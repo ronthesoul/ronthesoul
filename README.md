@@ -48,7 +48,7 @@
 
 ## 📫 Get in Touch
 
-- Email: [m4gapower@gmail.com](mailto:ron@negrov.xyz)  
+- Email: [ron@negrov.xyz](mailto:ron@negrov.xyz)  
 - GitHub: [github.com/ronthesoul](https://github.com/ronthesoul)
 
 ---
