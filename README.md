@@ -31,7 +31,7 @@
 > Shell-based `.bashrc` and environment config setup script for consistent shell environments.
 
 ### 💅 [my_app](https://github.com/ronthesoul/my_app)
-> A frontend app (CSS-focused) — part of a Docker or Flask project.
+> A frontend app — part of a Docker or Flask project.
 
 ### 🧪 [Negrovix](https://github.com/ronthesoul/Negrovix)
 > A shell script that automates the generation of Nginx configuration templates and handles repetitive setup tasks.
