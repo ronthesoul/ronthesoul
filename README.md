@@ -1,36 +1,48 @@
-# Hi, I’m Ron Negrov 👋
+# Hi, I'm Ron Negrov 👋
 
-Aspiring SOC Analyst | Python & Bash Enthusiast
+🔒 Cybersecurity & DevOps Enthusiast | 🐧 Linux Power User | ☁️ Cloud & Infra Automation  
 
 ---
 
-## 🛠️ Projects
+## 📦 My Projects
 
-### 🧩 DHCP Starvation Attack  
-`dhAFRICA.py` – A Python script that simulates a DHCP DDoS attack to exhaust IP leases.
+### 🧰 [ronstaller](https://github.com/ronthesoul/ronstaller)
+> A modular DevOps installer framework designed for repeatable, containerized setups using Docker and shell scripts.
 
-### 🔐 HTTP Brute Force Script  
-`http_bruteforce.py` – Automates login attempts to a webpage using a wordlist.
+### ☁️ [aws-terraform](https://github.com/ronthesoul/aws-terraform)
+> A basic AWS infrastructure setup using Terraform – includes VPC, subnets, and instance provisioning.
 
-### 🖧 Host Discovery Tool  
-`scripts/ping_sweep.sh` – A Bash utility to discover active hosts on a subnet via ICMP ping.
+### 🔧 [ansible_task](https://github.com/ronthesoul/ansible_task)
+> Automates app deployment using Ansible and Docker. Great for config management practice.
 
-### 🔓 Port Enumeration  
-`port_enum.py` – Scans a target system to identify open and accessible ports.
+### 🧪 [fertility](https://github.com/ronthesoul/fertility)
+> A shell script that generates a structured project template for web applications.
 
-### 📅 Shift Scheduler  
-`shift_scheduler.py` – Organizes and allocates employee shifts based on input criteria.
+### 💻 [vagrant-lib](https://github.com/ronthesoul/vagrant-lib)
+> Vagrantfile setup for creating a full Kubernetes lab locally with master and worker nodes via VirtualBox.
 
-### 🛒 Market Simulator  
-`sv_market.py` – A simulation of a supermarket’s purchase and inventory flow, built for a class project.
+### 📗 [negbook](https://github.com/ronthesoul/negbook)
+> A portable shell utility library used across multiple personal projects.
+
+### 🖥️ [ps1-cronfig](https://github.com/ronthesoul/ps1-cronfig)
+> Vim script & shell config to customize your PS1 prompt environment.
+
+### 🧾 [Cronfig](https://github.com/ronthesoul/Cronfig)
+> Shell-based `.bashrc` and environment config setup script for consistent shell environments.
+
+### 💅 [my_app](https://github.com/ronthesoul/my_app)
+> A frontend app (CSS-focused) — part of a Docker or Flask project.
+
+### 🧪 [Negrovix](https://github.com/ronthesoul/Negrovix)
+> A shell script that automates the generation of Nginx configuration templates and handles repetitive setup tasks.
 
 ---
 
 ## ⚙️ Skills & Tools
 
-- **Languages:** Python, Bash  
-- **Platforms:** Linux  
-- **Concepts:** Networking (ping, ports, DHCP), brute force methods, automation tools  
+- **Languages:** Python, Bash, Powershell  
+- **Platforms:** Linux (Debian), windows.   
+- **Concepts:** CI/CD, Docker, Kubernetes, Vagrant, Terraform, Ansible, Nginx, Jenkins, AWS.
 
 ---
 
