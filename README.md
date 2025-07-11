@@ -1,6 +1,6 @@
-# Hi, I'm Ron Negrov 👋
+# Hi, I'm RonTheSoul 👋
 
-🔒 Cybersecurity & DevOps Enthusiast | 🐧 Linux Power User | ☁️ Cloud & Infra Automation  
+🔒 Cybersecurity | DevOps
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 📫 Get in Touch
 
-- Email: [m4gapower@gmail.com](mailto:m4gapower@gmail.com)  
+- Email: [m4gapower@gmail.com](mailto:ron@negrov.xyz)  
 - GitHub: [github.com/ronthesoul](https://github.com/ronthesoul)
 
 ---
