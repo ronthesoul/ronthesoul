@@ -1,4 +1,4 @@
-# Hi, I'm RonTheSoul 👋
+# Hi, I'm RonTheSoul 
 
 🔒 Cybersecurity | DevOps
 
@@ -45,11 +45,6 @@
 - **Concepts:** CI/CD, Docker, Kubernetes, Vagrant, Terraform, Ansible, Nginx, Jenkins, AWS.
 
 ---
-
-## 📫 Get in Touch
-
-- Email: [ron@negrov.xyz](mailto:ron@negrov.xyz)  
-- GitHub: [github.com/ronthesoul](https://github.com/ronthesoul)
 
 ---
 
