@@ -1,54 +1,55 @@
-# Hi, I'm RonTheSoul 
+# Hi, I'm RonTheSoul
 
-🔒 Cybersecurity | DevOps
+Cybersecurity | DevOps
 
----
+## My Projects
 
-## 📦 My Projects
+- **ronstaller**: A modular DevOps installer framework for repeatable, containerized setups using Docker and shell scripts.  
+  [Repository](https://github.com/ronthesoul/ronstaller)
 
-### 🧰 [ronstaller](https://github.com/ronthesoul/ronstaller)
-> A modular DevOps installer framework designed for repeatable, containerized setups using Docker and shell scripts.
+- **aws-terraform**: Provisions basic AWS infrastructure (VPC, subnets, instances) using Terraform.  
+  [Repository](https://github.com/ronthesoul/aws-terraform)
 
-### ☁️ [aws-terraform](https://github.com/ronthesoul/aws-terraform)
-> A basic AWS infrastructure setup using Terraform – includes VPC, subnets, and instance provisioning.
+- **ansible_task**: Automates application deployment with Ansible and Docker, ideal for configuration management practice.  
+  [Repository](https://github.com/ronthesoul/ansible_task)
 
-### 🔧 [ansible_task](https://github.com/ronthesoul/ansible_task)
-> Automates app deployment using Ansible and Docker. Great for config management practice.
+- **fertility**: A shell script to generate structured project templates for web applications.  
+  [Repository](https://github.com/ronthesoul/fertility)
 
-### 🧪 [fertility](https://github.com/ronthesoul/fertility)
-> A shell script that generates a structured project template for web applications.
+- **vagrant-lib**: Vagrantfile setup for a local Kubernetes lab with master and worker nodes using VirtualBox.  
+  [Repository](https://github.com/ronthesoul/vagrant-lib)
 
-### 💻 [vagrant-lib](https://github.com/ronthesoul/vagrant-lib)
-> Vagrantfile setup for creating a full Kubernetes lab locally with master and worker nodes via VirtualBox.
+- **my-chart**: Helm chart for deploying the `my-app` application on Kubernetes, using Docker image `m4gapower/my_app:latest`.  
+  [Repository](https://github.com/ronthesoul/my-chart)
 
-### 📗 [negbook](https://github.com/ronthesoul/negbook)
-> A portable shell utility library used across multiple personal projects.
+- **negbook**: A portable shell utility library used across multiple projects.  
+  [Repository](https://github.com/ronthesoul/negbook)
 
-### 🖥️ [ps1-cronfig](https://github.com/ronthesoul/ps1-cronfig)
-> Vim script & shell config to customize your PS1 prompt environment.
+- **ps1-cronfig**: Vim script and shell configuration for customizing the PS1 prompt environment.  
+  [Repository](https://github.com/ronthesoul/ps1-cronfig)
 
-### 🧾 [Cronfig](https://github.com/ronthesoul/Cronfig)
-> Shell-based `.bashrc` and environment config setup script for consistent shell environments.
+- **Cronfig**: Shell-based `.bashrc` and environment configuration setup script for consistent shell environments.  
+  [Repository](https://github.com/ronthesoul/Cronfig)
 
-### 💅 [my_app](https://github.com/ronthesoul/my_app)
-> A frontend app — part of a Docker or Flask project.
+- **Negrovix**: A shell script for automating Nginx configuration template generation and setup tasks.  
+  [Repository](https://github.com/ronthesoul/Negrovix)
 
-### 🧪 [Negrovix](https://github.com/ronthesoul/Negrovix)
-> A shell script that automates the generation of Nginx configuration templates and handles repetitive setup tasks.
+- **my_app**: A frontend application, part of a Docker or Flask project, hosted on Docker Hub.  
+  [Repository](https://github.com/ronthesoul/my_app) | [Docker Hub](https://hub.docker.com/repository/docker/m4gapower/my_app/general)
 
----
+- **kubetask**: A task for an NFS based strogare nginx deployment in Kubernetes.  
+  [Repository](https://github.com/ronthesoul/kubetask) 
 
-## ⚙️ Skills & Tools
+- **my-chart**: A repo that contains my helm myapp deployment.  
+  [Repository](https://github.com/ronthesoul/my-chart)) | [Container Registry](https://github.com/ronthesoul/my-chart/pkgs/container/helm-charts%2Fmy-app)
 
-- **Languages:** Python, Bash, Powershell  
-- **Platforms:** Linux (Debian), windows.   
-- **Concepts:** CI/CD, Docker, Kubernetes, Vagrant, Terraform, Ansible, Nginx, Jenkins, AWS.
+## Skills & Tools
 
----
+- **Languages**: Python, Bash, PowerShell
+- **Platforms**: Linux (Debian), Windows
+- **Concepts**: CI/CD, Docker, Kubernetes, Vagrant, Terraform, Ansible, Nginx, Jenkins, AWS
 
----
+## Statistics
 
-## 📈 Statistics
-
-![Top Languages](https://img.shields.io/github/languages/top/ronthesoul/Projects?logo=github)  
-![Repo Size](https://img.shields.io/github/repo-size/ronthesoul/Projects)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronthesoul&layout=compact)  
+![Repo Size](https://github-readme-stats.vercel.app/api?username=ronthesoul&show=repos)
