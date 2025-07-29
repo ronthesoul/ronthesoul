@@ -1,4 +1,4 @@
-# Hi, I'm RonTheSoul
+s# Hi, I'm RonTheSoul
 
 Cybersecurity | DevOps
 
@@ -30,7 +30,7 @@ Cybersecurity | DevOps
 
 - **kubetask**: A task for an NFS based strogare nginx deployment in Kubernetes: [Repository](https://github.com/ronthesoul/kubetask) 
 
-- **my-chart**: A repo that contains my helm myapp deployment: [Repository](https://github.com/ronthesoul/my-chart)) | [Container Registry](https://github.com/ronthesoul/my-chart/pkgs/container/helm-charts%2Fmy-app)
+- **my-chart**: A repo that contains my helm myapp deployment: [Repository](https://github.com/ronthesoul/my-chart) | [Container Registry](https://github.com/ronthesoul/my-chart/pkgs/container/helm-charts%2Fmy-app)
 
 ## Skills & Tools
 
