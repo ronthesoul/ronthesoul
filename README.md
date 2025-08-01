@@ -6,7 +6,7 @@ Cybersecurity | DevOps
 
 - **goflow-builder**: A Go tool used to generate Github actions workflow yamls: [Repository](https://github.com/ronthesoul/goflow-builder/tree/v1.0.49)
 
-- - **tago**: A go Todo list tool: [Repository](https://github.com/ronthesoul/tago)
+-  **tago**: A go Todo list tool: [Repository](https://github.com/ronthesoul/tago)
 
 
 ## My Projects
