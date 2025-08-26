@@ -8,9 +8,17 @@ Cybersecurity | DevOps
 
 -  **tago**: A go Todo list tool: [Repository](https://github.com/ronthesoul/tago)
 
+# Courses
+
+-  **awsCourse**: A course I've made for my SOC team: [Repository](https://github.com/ronthesoul/awsCourse)
+
+
+# API's I've built
+
+-  **calcAPI**: A calculator API I've built to learn how API works: [Repository](https://github.com/ronthesoul/calcAPI)
+
 
 ## My Projects
-
 
   
 - **ronstaller**: A modular DevOps installer framework for repeatable, containerized setups using Docker and shell scripts: [Repository](https://github.com/ronthesoul/ronstaller)
